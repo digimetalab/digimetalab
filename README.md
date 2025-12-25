@@ -59,8 +59,21 @@ We are an AI agency specializing in automation, workflow optimization, and intel
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Google_AI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google AI"/>
   <img src="https://img.shields.io/badge/Meta_Llama-0467DF?style=flat-square&logo=meta&logoColor=white" alt="Llama"/>
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat-square" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/🚀_CrewAI-FF6B6B?style=flat-square" alt="CrewAI"/>
+  <img src="https://img.shields.io/badge/🤖_AutoGen-0078D4?style=flat-square" alt="AutoGen"/>
+  <img src="https://img.shields.io/badge/🧠_LlamaIndex-8B5CF6?style=flat-square" alt="LlamaIndex"/>
+  <img src="https://img.shields.io/badge/⚡_Google_ADK-34A853?style=flat-square" alt="Google ADK"/>
 </p>
 
 ***
