@@ -76,6 +76,24 @@ We are an AI agency specializing in automation, workflow optimization, and intel
   <img src="https://img.shields.io/badge/⚡_Google_ADK-34A853?style=flat-square" alt="Google ADK"/>
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/Weaviate-00D1B2?style=flat-square&logo=weaviate&logoColor=white" alt="Weaviate"/>
+  <img src="https://img.shields.io/badge/Qdrant-FF6B6B?style=flat-square" alt="Qdrant"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FFD700?style=flat-square" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square" alt="Gradio"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js"/>
+</p>
+
 ***
 
 <p align="center">
